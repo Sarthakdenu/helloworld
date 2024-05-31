@@ -17,6 +17,7 @@ unordered_set<int> solve(int maxVal) {
         t2 = t3;
         t3 = nxt;
     }
+    cout<<"hello from thirdbranch"<<endl;
     return triset;
 }
 int tribo(vector<int>& arr) {
