@@ -18,6 +18,7 @@ unordered_set<int> solve(int maxVal) {
         t2 = t3;
         t3 = nxt;
         // hi varun
+        // hi satyam boss
     }
     cout<<"hello from thirdbranch"<<endl;
     return triset;
