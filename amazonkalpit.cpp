@@ -6,7 +6,7 @@ unordered_set<int> solve(int maxVal) {
     int t1 = 0, t2 = 1, t3 = 1;
     triset.insert(t1);
     if (maxVal >= 1) {
-        // hi
+        // hi boss
         triset.insert(t2);
         triset.insert(t3);
     }
